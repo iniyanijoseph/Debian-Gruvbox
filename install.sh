@@ -1,8 +1,7 @@
 sudo apt update
 
-# C stuff
+# Library Generation stuff
 sudo apt install build-essential libpam0g-dev libxcb-xkb-dev
-sudo apt-get install gcc make
 
 # AMD Firmware % https://wiki.debian.org/InstallingDebianOn/Thinkpad/E14%20Gen3/bookworm
 sudo apt-get install firmware-amd-graphics
@@ -85,7 +84,6 @@ sudo apt install unzip
 
 # Text Editor
 sudo apt install geany geany-plugins
-# MAKE SURE TO ALSO INSTALL PRAGTICAL 
 
 xdg-user-dirs-update
 
@@ -94,14 +92,47 @@ sudo apt install maim
 # TODO Add command to sxhkd
 # maim -s | xclip -selection clipboard -t image/png
 
-
 # Login screen with lightdm * NOTE Use better lockscreen instead?
 sudo apt install lightdm
 sudo cp contrib/freedesktop/bspwm.desktop /usr/share/xsessions/
 
+# Github 
 sudo apt install gh
 
+# texstudio and tex
+sudo apt install texlive 
+# Uncomment to add rest of latex, however takes long time to work
+# sudo apt install texlive-full
+sudo apt install texstudio
+# TODO Create texstudio theme
+
 # FLATPAK APPS
-# TODO ADD PLANIFY
-# TODO ADD FOR PLANIFY flatpak run --command=io.github.alainm23.planify.quick-add io.github.alainm23.planify
-# TODO ADD DISCORD
+sudo apt install flatpak
+flatpak install flathub io.github.alainm23.planify
+# TODO add planify flatpak run --command=io.github.alainm23.planify.quick-add io.github.alainm23.planify to skhd
+flatpak install flathub com.discordapp.Discord
+
+# APPIMAGES
+# Appimage Launcher
+sudo dpkg -i AppImageLauncher.deb
+sudo ail-cli integrate Pragtical.AppImage
+# TODO add pragtical configuration files
+# TODO Add pluggable backends for java, ocaml, gcc, python, etc for debugger in ocaml
+
+# Programming Languages
+# Java
+sudo apt install default-jdk
+# TODO Automatically set environment variable JAVA_HOME="/usr/lib/jvm/java-17-openjdk-amd64"
+# C
+sudo apt-get install gcc make
+# OCaml
+sudo apt install opam
+opam init --bare -a -y
+opam switch create main-switch ocaml-base-compiler.5.1.1
+eval $(opam env)
+opam switch list
+opam install -y utop odoc ounit2 qcheck bisect_ppx menhir ocaml-lsp-server ocamlformat
+# Add the following lines to user module in pragtical to add lsp support
+# local lspconfig = require "plugins.lsp.config"
+# lspconfig.ocaml_lsp.setup{}
+
