@@ -1,0 +1,769 @@
+{
+   "checksum": "17fbc494e0138f75a845623fb0a2a9a9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13351455439000000",
+               "date_last_used": "0",
+               "guid": "565a977d-31ee-48da-aed3-b506604b297d",
+               "id": "6",
+               "name": "ELearning",
+               "type": "url",
+               "url": "https://elearning.utdallas.edu/ultra/institution-page"
+            }, {
+               "date_added": "13351455485000000",
+               "date_last_used": "0",
+               "guid": "a6cf7be3-b243-4712-a6f6-54c7e9786d46",
+               "id": "7",
+               "name": "Microsoft 365",
+               "type": "url",
+               "url": "https://www.office.com/?auth=2"
+            }, {
+               "date_added": "13351455461000000",
+               "date_last_used": "0",
+               "guid": "1418ac47-69a6-4329-bdf9-2e90db65488e",
+               "id": "8",
+               "name": "Homepage",
+               "type": "url",
+               "url": "https://dacs-prd.utshare.utsystem.edu/psc/DACSPRD/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?&lp=SA.EMPLOYEE.UTD_AD_APPL_CNTR_HP&"
+            }, {
+               "date_added": "13351455492000000",
+               "date_last_used": "0",
+               "guid": "f026ba9a-7a9d-42f2-bb35-76db889d5ac7",
+               "id": "9",
+               "name": "Testing Center",
+               "type": "url",
+               "url": "https://ets.utdallas.edu/testing-center"
+            }, {
+               "children": [ {
+                  "date_added": "13354592438000000",
+                  "date_last_used": "0",
+                  "guid": "18566f24-1371-4464-9fa8-e9b0e29fb338",
+                  "id": "11",
+                  "name": "Algorithmic Game Theory (CS364A), Fall 2013",
+                  "type": "url",
+                  "url": "https://timroughgarden.org/f13/f13.html"
+               }, {
+                  "date_added": "13352398014000000",
+                  "date_last_used": "0",
+                  "guid": "69dc0462-e9ba-419a-b3c2-edb705c037ac",
+                  "id": "12",
+                  "name": "Representing Code · Crafting Interpreters",
+                  "type": "url",
+                  "url": "https://craftinginterpreters.com/representing-code.html"
+               }, {
+                  "date_added": "13352398025000000",
+                  "date_last_used": "0",
+                  "guid": "81c98066-b073-4b5c-93d8-61164ace535c",
+                  "id": "13",
+                  "name": "OpenDSA",
+                  "type": "url",
+                  "url": "https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Probabilistic.html"
+               }, {
+                  "date_added": "13356037279000000",
+                  "date_last_used": "0",
+                  "guid": "9541fc73-c257-4047-b62f-37648bf67f3e",
+                  "id": "14",
+                  "name": "CMU 15-896: Truth, Justice, and Algorithms",
+                  "type": "url",
+                  "url": "http://www.cs.cmu.edu/~15896/schedule.html"
+               }, {
+                  "date_added": "13356491374000000",
+                  "date_last_used": "0",
+                  "guid": "2c35bea9-dd42-410d-a75f-e9dc1b382059",
+                  "id": "15",
+                  "name": "99 problems – OCaml",
+                  "type": "url",
+                  "url": "https://v2.ocaml.org/learn/tutorials/99problems.html#Graphs"
+               }, {
+                  "date_added": "13357961490000000",
+                  "date_last_used": "0",
+                  "guid": "e025f1f2-a886-4afe-a37a-8e814f5a127a",
+                  "id": "16",
+                  "name": "Exercism",
+                  "type": "url",
+                  "url": "https://exercism.org/tracks/ocaml/exercises/hello-world/edit"
+               }, {
+                  "date_added": "13357961504000000",
+                  "date_last_used": "0",
+                  "guid": "e68880ac-09df-4586-abf6-fe7988959e5b",
+                  "id": "17",
+                  "name": "OCaml By Example | \u003Cfun>",
+                  "type": "url",
+                  "url": "https://o1-labs.github.io/ocamlbyexample/basics-hello-world.html"
+               }, {
+                  "date_added": "13358996240000000",
+                  "date_last_used": "0",
+                  "guid": "22536886-2f80-4904-b343-f51f496aa90b",
+                  "id": "18",
+                  "name": "Real World OCaml",
+                  "type": "url",
+                  "url": "https://dev.realworldocaml.org/toc.html"
+               } ],
+               "date_added": "13361492118016212",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f44e50a8-5102-4a05-b3ae-66f251276a6e",
+               "id": "10",
+               "name": "Self Study",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13360353562000000",
+                  "date_last_used": "0",
+                  "guid": "6a6f2b21-dd0d-44c3-ad19-51560ced1cae",
+                  "id": "20",
+                  "name": "Course Syllabus - syl123462.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl123462"
+               }, {
+                  "date_added": "13360353564000000",
+                  "date_last_used": "0",
+                  "guid": "fd410888-8479-49d9-94d8-51b39223e7b6",
+                  "id": "21",
+                  "name": "Course Syllabus - syl140476.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl140476"
+               }, {
+                  "date_added": "13360353566000000",
+                  "date_last_used": "0",
+                  "guid": "9b5b94d7-4519-4435-9d24-c4566fdbef02",
+                  "id": "22",
+                  "name": "Course Syllabus - syl142153.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl142153"
+               }, {
+                  "date_added": "13360353568000000",
+                  "date_last_used": "0",
+                  "guid": "86a61c96-285a-4aaa-8677-b33b8c53788c",
+                  "id": "23",
+                  "name": "Course Syllabus - syl133604.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl133604"
+               }, {
+                  "date_added": "13360353569000000",
+                  "date_last_used": "0",
+                  "guid": "f408abc6-6c8a-4ede-b36d-8363a6263782",
+                  "id": "24",
+                  "name": "Course Syllabus - syl133811.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl133811"
+               }, {
+                  "date_added": "13360353571000000",
+                  "date_last_used": "0",
+                  "guid": "0aae5997-0f09-4a30-95db-1b2a15cb2f66",
+                  "id": "25",
+                  "name": "23F-CS4347.001- Syllabus - syl134772.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl134772"
+               }, {
+                  "date_added": "13360353573000000",
+                  "date_last_used": "0",
+                  "guid": "4dcca190-db4d-4079-a795-b70697a19d2b",
+                  "id": "26",
+                  "name": "Microsoft Word - CS4349002-Fall23.docx - syl134296.pdf",
+                  "type": "url",
+                  "url": "https://dox.utdallas.edu/syl134296"
+               } ],
+               "date_added": "13361492118016421",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "38daa3dc-6476-4474-a7b8-11e738c15169",
+               "id": "19",
+               "name": "Syllabi",
+               "type": "folder"
+            } ],
+            "date_added": "13361492118015855",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "2871ecc0-a13d-43b5-a4c1-01492faa22bc",
+            "id": "5",
+            "name": "School",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13350260315000000",
+               "date_last_used": "0",
+               "guid": "c2774f27-5de7-4f79-9cb1-d9a9a956fb68",
+               "id": "28",
+               "name": "Competitive Programming (CP) Handbook with Complete Roadmap - GeeksforGeeks",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/competitive-programming-cp-handbook-with-complete-roadmap/"
+            }, {
+               "date_added": "13350156702000000",
+               "date_last_used": "0",
+               "guid": "b78c4a6e-7ab8-40ec-b5b2-d7171c8d15fd",
+               "id": "29",
+               "name": "Kattis, Kattis",
+               "type": "url",
+               "url": "https://open.kattis.com/"
+            }, {
+               "date_added": "13355954445000000",
+               "date_last_used": "0",
+               "guid": "47cbb6a0-e114-40ef-a7f3-4d77800400ff",
+               "id": "30",
+               "name": "Competitive Programming Book",
+               "type": "url",
+               "url": "https://cpbook.net/methodstosolve?oj=kattis&topic=ch1&quality=all"
+            }, {
+               "date_added": "13356036619000000",
+               "date_last_used": "0",
+               "guid": "8a703539-22c5-4803-a75b-581f65034fe0",
+               "id": "31",
+               "name": "visualising data structures and algorithms through animation - VisuAlgo",
+               "type": "url",
+               "url": "https://visualgo.net/en"
+            } ],
+            "date_added": "13361492118016558",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e3a24fdd-c1f9-427e-924a-654a941720dc",
+            "id": "27",
+            "name": "Competitive Programming",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13349126806000000",
+               "date_last_used": "0",
+               "guid": "77c31b43-90ec-49fa-9312-2f8081481120",
+               "id": "33",
+               "name": "The Occidental Language",
+               "type": "url",
+               "url": "https://occidental-lang.com/#learn"
+            }, {
+               "date_added": "13349127676000000",
+               "date_last_used": "0",
+               "guid": "5d3347e1-5be8-4e39-9be2-e537175c3558",
+               "id": "34",
+               "name": "Capitul 1 - Li Litt Prince",
+               "type": "url",
+               "url": "https://occidental-lang.com/LiLittPrince/LiLittPrince/1.html"
+            }, {
+               "date_added": "13349246547000000",
+               "date_last_used": "0",
+               "guid": "b125c5f8-3b1d-464e-b9ce-464a1efbd25d",
+               "id": "35",
+               "name": "Derivation from Verbs - Interlingue for Beginners",
+               "type": "url",
+               "url": "https://occidental-lang.com/interlingue-for-beginners/5.html"
+            }, {
+               "date_added": "13349296300000000",
+               "date_last_used": "0",
+               "guid": "c2a0ba52-c6fa-4f71-9fce-15223edb3f0c",
+               "id": "36",
+               "name": "The Esperanto - Interlingue dictionary | Glosbe",
+               "type": "url",
+               "url": "https://glosbe.com/eo/ie"
+            }, {
+               "date_added": "13355335290000000",
+               "date_last_used": "0",
+               "guid": "ce652af0-11d1-4e1c-9690-94e68dddf972",
+               "id": "37",
+               "name": "Poemas e pensatas: Esque Interlingua es un lingua romanic? Conclusion",
+               "type": "url",
+               "url": "http://poemasepensatas.blogspot.com/2024/03/esque-interlingua-es-un-lingua-romanic.html"
+            } ],
+            "date_added": "13361492118016650",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "80242659-35c4-4050-9234-3890d2a0ca5b",
+            "id": "32",
+            "name": "Occidental",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13351645567000000",
+               "date_last_used": "0",
+               "guid": "9e3a4173-0470-4c0e-bfe6-1dcd0045c072",
+               "id": "39",
+               "name": "Slack",
+               "type": "url",
+               "url": "https://app.slack.com/client/T01CHKBU2KG"
+            }, {
+               "date_added": "13355960148000000",
+               "date_last_used": "0",
+               "guid": "b82fc5ab-ed29-4939-8d98-294b63b233c9",
+               "id": "40",
+               "name": "PCS - Conference Website",
+               "type": "url",
+               "url": "https://new.precisionconference.com/submissions"
+            }, {
+               "date_added": "13357678238000000",
+               "date_last_used": "0",
+               "guid": "085677be-403c-448f-abd7-c8619eb3d4b5",
+               "id": "41",
+               "name": "(2) HMD_input_NeutralPosture | Powered by Box",
+               "type": "url",
+               "url": "https://utdallas.app.box.com/folder/259025442470"
+            }, {
+               "date_added": "13358028101000000",
+               "date_last_used": "0",
+               "guid": "821447ae-65c3-4312-8f72-00be221a0a1b",
+               "id": "42",
+               "name": "Neutral Posture HMD Ideation - Google Slides",
+               "type": "url",
+               "url": "https://docs.google.com/presentation/d/173uZU7BPoQKeiI9vIxLtbvqCDFPdQv6a8cfJMFWsmzM/edit#slide=id.g26eef5a8ccd_0_12"
+            }, {
+               "date_added": "13358287491000000",
+               "date_last_used": "0",
+               "guid": "1a201cc7-f61e-403d-9de8-4547f4dae934",
+               "id": "43",
+               "name": "Spring Training 2024 | Powered by Box",
+               "type": "url",
+               "url": "https://utdallas.app.box.com/folder/259789571000?s=pc3l7e2pw8yibhyruyina3qjocqrhpu0"
+            }, {
+               "date_added": "13358526451000000",
+               "date_last_used": "0",
+               "guid": "6d15f840-eb37-4d4e-ab4a-9d0b27e6380d",
+               "id": "44",
+               "name": "All Files | Powered by Box",
+               "type": "url",
+               "url": "https://utdallas.app.box.com/folder/259789571000"
+            }, {
+               "date_added": "13360095244000000",
+               "date_last_used": "0",
+               "guid": "c68a2db7-790f-42c3-9261-aba4940b5961",
+               "id": "45",
+               "name": "The University of Texas Dallas | Powered by Box",
+               "type": "url",
+               "url": "https://utdallas.app.box.com/folder/259810695830?tc=collab-folder-invite-treatment-b"
+            } ],
+            "date_added": "13361492118016750",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "91f008b7-6985-46b0-8c88-58671acf8696",
+            "id": "38",
+            "name": "Research",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356120768000000",
+               "date_last_used": "0",
+               "guid": "fe7ee5b3-dd2c-4959-9611-3ce15b53f698",
+               "id": "47",
+               "name": "Classroom Fortress: The Nine Kinds of Students",
+               "type": "url",
+               "url": "https://matt.might.net/articles/nine-kinds-of-students/"
+            }, {
+               "date_added": "13357161917000000",
+               "date_last_used": "0",
+               "guid": "6fd8788b-d167-494e-b40f-e5503f3f802d",
+               "id": "48",
+               "name": "PL Perspectives – The SIGPLAN Blog | SIGPLAN Blog",
+               "type": "url",
+               "url": "https://blog.sigplan.org/blog/"
+            }, {
+               "date_added": "13357229410000000",
+               "date_last_used": "0",
+               "guid": "fd3158bb-1341-430b-96f5-d226fc9a169e",
+               "id": "49",
+               "name": "Iniyan Joseph",
+               "type": "url",
+               "url": "https://functor.network/user/853"
+            }, {
+               "date_added": "13357246290000000",
+               "date_last_used": "0",
+               "guid": "7912a9a1-9c46-4f0c-87cc-c3a8f155f042",
+               "id": "50",
+               "name": "6 tips for low-cost academic blogging",
+               "type": "url",
+               "url": "https://matt.might.net/articles/how-to-blog-as-an-academic/"
+            }, {
+               "date_added": "13357246413000000",
+               "date_last_used": "0",
+               "guid": "a5bb8ed4-0141-4245-9ac5-e882857eb695",
+               "id": "51",
+               "name": "Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA",
+               "type": "url",
+               "url": "https://blog.regehr.org/"
+            }, {
+               "date_added": "13357246415000000",
+               "date_last_used": "0",
+               "guid": "16f4a998-4150-4d35-a4f1-406191d73d21",
+               "id": "52",
+               "name": "The Little Calculist",
+               "type": "url",
+               "url": "http://calculist.blogspot.com/"
+            }, {
+               "date_added": "13357246528000000",
+               "date_last_used": "0",
+               "guid": "8ca80b66-4341-4a77-bc9d-dbbacb09c42a",
+               "id": "53",
+               "name": "Gödel's Lost Letter and P=NP | a personal view of the theory of computation",
+               "type": "url",
+               "url": "https://rjlipton.com/"
+            }, {
+               "date_added": "13357246622000000",
+               "date_last_used": "0",
+               "guid": "2fed48a3-0dc6-48c3-a627-945db50db8ae",
+               "id": "54",
+               "name": "Turing's Invisible Hand | Computation, Economics, and Game Theory",
+               "type": "url",
+               "url": "https://agtb.wordpress.com/"
+            }, {
+               "date_added": "13357246940000000",
+               "date_last_used": "0",
+               "guid": "9b9f16e7-146e-4bc5-847c-b7e552e41b05",
+               "id": "55",
+               "name": "The Thesis Whisperer",
+               "type": "url",
+               "url": "https://thesiswhisperer.com/"
+            }, {
+               "date_added": "13357247023000000",
+               "date_last_used": "0",
+               "guid": "e394a283-5634-4ea7-831b-6c232621e5c2",
+               "id": "56",
+               "name": "The Research Whisperer – Just like the Thesis Whisperer – but with more money",
+               "type": "url",
+               "url": "https://researchwhisperer.org/"
+            }, {
+               "date_added": "13357247029000000",
+               "date_last_used": "0",
+               "guid": "011c35fe-7e6b-4e69-814b-1c3921fbc115",
+               "id": "57",
+               "name": "Writing For Research – Medium",
+               "type": "url",
+               "url": "https://medium.com/@Write4Research"
+            }, {
+               "date_added": "13357247208000000",
+               "date_last_used": "0",
+               "guid": "c384532e-3778-4bdc-9e57-dbf41cd4d82d",
+               "id": "58",
+               "name": "Theory of Computing Report",
+               "type": "url",
+               "url": "https://theory.report/"
+            }, {
+               "date_added": "13357247317000000",
+               "date_last_used": "0",
+               "guid": "5257548d-9520-4d45-80e0-8f3c3def7969",
+               "id": "59",
+               "name": "Why Evolution Is True – Why Evolution is True is a blog written by Jerry Coyne, centered on evolution and biology but also dealing with diverse topics like politics, culture, and cats.",
+               "type": "url",
+               "url": "https://whyevolutionistrue.com/"
+            }, {
+               "date_added": "13357247339000000",
+               "date_last_used": "0",
+               "guid": "280b9bed-3bff-44f0-83bf-dcee1f61f23b",
+               "id": "60",
+               "name": "Fair division and game theory in a Jif Peanut Butter commercial – Mind Your Decisions",
+               "type": "url",
+               "url": "https://mindyourdecisions.com/blog/2009/01/13/fair-division-and-game-theory-in-a-jif-peanut-butter-commercial/"
+            }, {
+               "date_added": "13357586688000000",
+               "date_last_used": "0",
+               "guid": "3be69850-cc34-42c9-9559-26c7c5a42284",
+               "id": "61",
+               "name": "The Future of AI (Hiring 5 PhDs) 💉💉💉",
+               "type": "url",
+               "url": "http://thefutureofai.blogspot.com/"
+            }, {
+               "date_added": "13358101243000000",
+               "date_last_used": "0",
+               "guid": "fedf6bb1-a108-407a-99bb-2a75016f7480",
+               "id": "62",
+               "name": "What mathematicians get up to | plus.maths.org",
+               "type": "url",
+               "url": "https://plus.maths.org/content/what-mathematicians-get"
+            }, {
+               "date_added": "13358313998000000",
+               "date_last_used": "0",
+               "guid": "4f635797-3811-4939-9010-bf1997ff3f42",
+               "id": "63",
+               "name": "Utah Arch: Lab Demographics",
+               "type": "url",
+               "url": "https://utaharch.blogspot.com/2015/10/lab-demographics.html?m=1"
+            }, {
+               "date_added": "13360875618000000",
+               "date_last_used": "0",
+               "guid": "f3e1f7d3-81c8-427d-a44f-a23d0cfecf15",
+               "id": "64",
+               "name": "Easy Pumpkin Soup - Two Peas & Their Pod",
+               "type": "url",
+               "url": "https://www.twopeasandtheirpod.com/easy-pumpkin-soup/"
+            }, {
+               "date_added": "13360954345000000",
+               "date_last_used": "0",
+               "guid": "8756823b-4ae6-47b8-9e84-5b9d9f9f63a2",
+               "id": "65",
+               "name": "mut-ex/minimal-functional-fox: A minimal, yet functional Firefox userChrome configuration.",
+               "type": "url",
+               "url": "https://github.com/mut-ex/minimal-functional-fox"
+            } ],
+            "date_added": "13361492118016892",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "febe29c4-35af-41c3-90d1-10bc1e11a782",
+            "id": "46",
+            "name": "Blogs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356140434000000",
+               "date_last_used": "0",
+               "guid": "bfed96c2-544c-4f08-8661-293a463ab662",
+               "id": "67",
+               "name": "Upsilon",
+               "type": "url",
+               "url": "https://getupsilon.web.app/simulator"
+            }, {
+               "children": [ {
+                  "date_added": "13358018343000000",
+                  "date_last_used": "0",
+                  "guid": "e7f0f7bc-757b-4913-a283-33fb5baa75ec",
+                  "id": "69",
+                  "name": "PM25/SimplePlus-BeamerTheme: 🍃 SimplePlus - A simple & clear latex beamer theme.",
+                  "type": "url",
+                  "url": "https://github.com/PM25/SimplePlus-BeamerTheme?tab=readme-ov-file"
+               }, {
+                  "date_added": "13358018521000000",
+                  "date_last_used": "0",
+                  "guid": "d761ba39-71ff-42ff-8f55-33c2cb3374c5",
+                  "id": "70",
+                  "name": "arguelles/demo/demo-arguelles.pdf at master · piazzai/arguelles",
+                  "type": "url",
+                  "url": "https://github.com/piazzai/arguelles/blob/master/demo/demo-arguelles.pdf"
+               }, {
+                  "date_added": "13358018872000000",
+                  "date_last_used": "0",
+                  "guid": "091a4aa7-916c-4850-bf00-fc36268cae68",
+                  "id": "71",
+                  "name": "indentation - Itemize within itemize and reducing indent in beamer - TeX - LaTeX Stack Exchange",
+                  "type": "url",
+                  "url": "https://tex.stackexchange.com/questions/426581/itemize-within-itemize-and-reducing-indent-in-beamer"
+               }, {
+                  "date_added": "13358021602000000",
+                  "date_last_used": "0",
+                  "guid": "27744d07-26bc-4a1e-b559-f405c72567e8",
+                  "id": "72",
+                  "name": "graphics - Multiple columns with images and wrapped text in Beamer - TeX - LaTeX Stack Exchange",
+                  "type": "url",
+                  "url": "https://tex.stackexchange.com/questions/32931/multiple-columns-with-images-and-wrapped-text-in-beamer"
+               }, {
+                  "date_added": "13358028072000000",
+                  "date_last_used": "0",
+                  "guid": "ea44200a-9178-4110-94ca-f404241563b9",
+                  "id": "73",
+                  "name": "krystophny/tpx: TpX: drawing tool for TeX",
+                  "type": "url",
+                  "url": "https://github.com/krystophny/tpx"
+               }, {
+                  "date_added": "13358028074000000",
+                  "date_last_used": "0",
+                  "guid": "7397be0c-b213-4b43-b791-421ae1e7864c",
+                  "id": "74",
+                  "name": "GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers",
+                  "type": "url",
+                  "url": "https://www.geogebra.org/"
+               }, {
+                  "date_added": "13358028078000000",
+                  "date_last_used": "0",
+                  "guid": "090078b3-b64e-4f39-acab-4bb02c578ad3",
+                  "id": "75",
+                  "name": "Apps/Dia - GNOME Wiki!",
+                  "type": "url",
+                  "url": "https://wiki.gnome.org/Apps/Dia"
+               } ],
+               "date_added": "13361492118017477",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "af5b2ff2-9d91-46ee-a0a2-62a56fb70643",
+               "id": "68",
+               "name": "Latex",
+               "type": "folder"
+            } ],
+            "date_added": "13361492118017440",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5f6419f5-6a0e-405b-8fa4-b3c248057b0b",
+            "id": "66",
+            "name": "Open Source Projects",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13353880880000000",
+               "date_last_used": "0",
+               "guid": "48be6d02-1902-4d36-95d1-b0ecd19ecadf",
+               "id": "77",
+               "name": "DuckieAndTheSearchForTheGoldenGoose/Duckie.pdf at main · iniyanijoseph/DuckieAndTheSearchForTheGoldenGoose · GitHub",
+               "type": "url",
+               "url": "https://github.com/iniyanijoseph/DuckieAndTheSearchForTheGoldenGoose/blob/main/Duckie.pdf"
+            }, {
+               "date_added": "13356140492000000",
+               "date_last_used": "0",
+               "guid": "f2ff873b-6c87-46ab-b154-6201be54df1a",
+               "id": "78",
+               "name": "iniyanijoseph/BS-Analysis",
+               "type": "url",
+               "url": "https://github.com/iniyanijoseph/BS-Analysis"
+            }, {
+               "date_added": "13356140599000000",
+               "date_last_used": "0",
+               "guid": "e6f352ae-a864-4192-8ee3-18efc287a659",
+               "id": "79",
+               "name": "iniyanijoseph/Compiler",
+               "type": "url",
+               "url": "https://github.com/iniyanijoseph/Compiler"
+            }, {
+               "children": [ {
+                  "date_added": "13360620354000000",
+                  "date_last_used": "0",
+                  "guid": "717a3fe9-a6ab-44f6-a1aa-99d6b4f2e00f",
+                  "id": "81",
+                  "name": "dotfiles/.themes at bspwm · 4lgn/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/4lgn/dotfiles/tree/bspwm/.themes"
+               }, {
+                  "date_added": "13360881618000000",
+                  "date_last_used": "0",
+                  "guid": "5b80d380-5667-4b3c-a20c-5eae52e4194d",
+                  "id": "82",
+                  "name": "ly/res/config.ini at master · fairyglade/ly · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/fairyglade/ly/blob/master/res/config.ini"
+               }, {
+                  "date_added": "13360897340000000",
+                  "date_last_used": "0",
+                  "guid": "bbfa2d6f-9f30-4c73-bea4-2dd8337dc701",
+                  "id": "83",
+                  "name": "polybar-scripts/polybar-scripts/network-networkmanager at master · polybar/polybar-scripts · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/network-networkmanager"
+               }, {
+                  "date_added": "13360897342000000",
+                  "date_last_used": "0",
+                  "guid": "2b20a817-09ae-41dd-bdf4-bb7b09146e4e",
+                  "id": "84",
+                  "name": "polybar-scripts/polybar-scripts/updates-flatpak at master · polybar/polybar-scripts · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-flatpak"
+               }, {
+                  "date_added": "13360897345000000",
+                  "date_last_used": "0",
+                  "guid": "53edfb7c-da1e-4e4b-a4e1-029a8c352157",
+                  "id": "85",
+                  "name": "polybar-scripts/polybar-scripts/openweathermap-simple at master · polybar/polybar-scripts · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-simple"
+               }, {
+                  "date_added": "13360897348000000",
+                  "date_last_used": "0",
+                  "guid": "3a95787a-3eef-4406-b80f-8baebae4f104",
+                  "id": "86",
+                  "name": "polybar-scripts/polybar-scripts/dunst-snooze at master · polybar/polybar-scripts · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/dunst-snooze"
+               } ],
+               "date_added": "13361492118017690",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "0ccc9447-e0c8-4175-b87f-5665d3bb22d4",
+               "id": "80",
+               "name": "Ricing",
+               "type": "folder"
+            } ],
+            "date_added": "13361492118017630",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "cc40f421-cb13-4c05-ab55-468a40991e60",
+            "id": "76",
+            "name": "Personal Projects",
+            "type": "folder"
+         }, {
+            "date_added": "13360438380000000",
+            "date_last_used": "0",
+            "guid": "04e9ecd5-f72c-4536-adef-59a3ee561e29",
+            "id": "87",
+            "name": "BrentMcFerrin/lightsaber-escape: Attempt at building a clone of Google's experiment",
+            "type": "url",
+            "url": "https://github.com/BrentMcFerrin/lightsaber-escape"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13340406545000000",
+                  "date_last_used": "0",
+                  "guid": "0d4c8d79-2059-4273-9fc8-2bcb705a6e47",
+                  "id": "90",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13340406545000000",
+                  "date_last_used": "0",
+                  "guid": "6fa8b354-8d31-4e12-8954-7bbc947a53ad",
+                  "id": "91",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13340406545000000",
+                  "date_last_used": "0",
+                  "guid": "4544dc8c-dacf-4852-80e1-0596323aa187",
+                  "id": "92",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13340406545000000",
+                  "date_last_used": "0",
+                  "guid": "3a0f4e1a-f19f-4ed6-857e-f9f311c31ed9",
+                  "id": "93",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13361492118017851",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "9d490ee5-2d76-4f39-b5ad-068f91f47773",
+               "id": "89",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13359138110000000",
+               "date_last_used": "0",
+               "guid": "a907eba4-e858-41a3-9d60-c9495ce7f87c",
+               "id": "94",
+               "name": "Selected papers on fun & games - Anna’s Archive",
+               "type": "url",
+               "url": "https://annas-archive.org/md5/9b13f041e99768d068300cd75b2cb66a"
+            } ],
+            "date_added": "13361492118017835",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "45c06380-f572-4213-a0c1-aca66d55ad08",
+            "id": "88",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13361492098736323",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13361492098736327",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13361492098736329",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

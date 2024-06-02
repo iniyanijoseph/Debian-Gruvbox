@@ -1,16 +1,6 @@
 #! /bin/sh
 
-sxhkd &
-
-# If HDMI-1 connected, split workspaces to both monitors
-if [ "$(xrandr | grep "HDMI-1 connected")" ]
-then
-    bspc monitor HDMI-1 -d 1 2 3 4 5
-    bspc monitor eDP-1 -d 6 7 8 9 10
-
-else
-    bspc monitor eDP-1 -d 1 2 3 4 5 6 7 8 9 10
-fi
+sxhkd -m-1 &
 
 # Used to make polybar maintain proper workspaces per monitor when going from 2
 # to 1 monitor again.. This may include some monitor re-ordering issues
@@ -27,10 +17,8 @@ bspc config right_padding 0
 bspc config bottom_padding 0
 bspc config left_padding 0
 
-bspc rule -a URxvt:scratchy sticky=on state=floating rectangle=widthxheight+Xoffset+Yoffset
-
 bspc config border_width         4
-bspc config border_radius         12
+# bspc config border_radius         12
 bspc config window_gap           12
 
 bspc config split_ratio          0.50
@@ -49,9 +37,9 @@ xrdb -load ~/.Xresources
 # Change from ugly 'X' cursor when hovering over background
 xsetroot -cursor_name left_ptr
 # Make betterlockscreen generate and cache a background image for locking
-betterlockscreen -u ~/Documents/Wallpapers/gruvbox.png
+# betterlockscreen -u ~/Documents/Wallpapers/gruvbox.png
 # ------- Autostart apps ------
-# Picom
+# Picomp
 picom --xrender-sync-fence &
 # Dunst
 dunst &
@@ -62,16 +50,19 @@ nm-applet &
 
 # ------- Mouse/Touchpad fixes ------
 # Start libinput gestures
-libinput-gestures-setup start
+# libinput-gestures-setup start
 # Xinput configs (touchpad)
-xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Natural Scrolling Enabled" 1
-xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Click Method Enabled" 0 1
-xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Disable While Typing Enabled" 0
+# xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Natural Scrolling Enabled" 1
+# xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Click Method Enabled" 0 1
+# xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Disable While Typing Enabled" 0
 # ------- Keyboard fixes ------
 # Remap Caps-lock key to Backspace
 setxkbmap -option caps:backspace
 # Make US and DK keyboard layout togglable with Shift+Alt
 setxkbmap -layout us,canary -option grp:alt_shift_toggle
+# WIFI Stuff
+systemctl restart NetworkManager
+systemctl restart wpa_supplicant.service
 
 export _JAVA_AWT_WM_NONREPARENTING=1
 

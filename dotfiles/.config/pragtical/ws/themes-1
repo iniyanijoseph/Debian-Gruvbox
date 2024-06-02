@@ -1,0 +1,1 @@
+return { path = "/home/wug/.config/dorion/themes", documents = {["views"]={[1]={["type"]="view",["active"]=false,["module"]="core.emptyview",["scroll"]={["x"]=0,["y"]=0,["to"]={["x"]=0,["y"]=0}}}},["type"]="leaf",["active_view"]=1}, directories = {} }

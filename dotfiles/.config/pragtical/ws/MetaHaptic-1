@@ -1,0 +1,1 @@
+return { path = "/home/wug/Main/Research/MetaHaptic", documents = {["active_view"]=1,["type"]="leaf",["views"]={[1]={["scroll"]={["y"]=793.92505904748,["x"]=0},["filename"]="probs.py",["text"]=false,["active"]=true,["type"]="doc",["selection"]={[1]=38,[2]=25,[3]=38,[4]=25}}}}, directories = {} }

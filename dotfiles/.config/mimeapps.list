@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-shellscript=geany.desktop;kitty.desktop;
+application/zip=userapp-unzip -IRYGO2.desktop;
+
+[Default Applications]
+application/zip=userapp-unzip -IRYGO2.desktop
+dorion=dorion-handler.desktop

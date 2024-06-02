@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 #BAR_ICON=""
-NOTIFY_ICON=/usr/share/icons/Papirus/32x32/apps/system-software-update.svg
+NOTIFY_ICON=~/.local/share/icons/Zafiro-Icons-Dark/apps/scalable/system-software-installer.svg
 
-get_total_updates() { UPDATES=$(checkupdates 2>/dev/null | wc -l); }
+get_total_updates() { UPDATES=$(apt list --upgradable 2> /dev/null | grep -c upgradable); }
 
 while true; do
     get_total_updates

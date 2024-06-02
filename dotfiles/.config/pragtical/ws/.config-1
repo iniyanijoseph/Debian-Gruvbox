@@ -1,0 +1,1 @@
+return { path = "/home/wug/.config", documents = {["views"]={[1]={["filename"]="bspwm/bspwmrc",["active"]=true,["type"]="doc",["scroll"]={["y"]=0,["x"]=0},["text"]=false,["selection"]={[1]=2,[2]=1,[3]=2,[4]=1}}},["type"]="leaf",["active_view"]=1}, directories = {} }

@@ -1,0 +1,21 @@
+#! /bin/sh
+
+if [ "$(xrandr | grep "HDMI-A-0 connected")" ]
+then
+    xrandr --output HDMI-A-0 --mode 1920x1080 --output eDP --mode 1920x1200 --right-of HDMI-A-0
+    bspc monitor HDMI-A-0 -d 1 2 3 4 5
+    bspc monitor eDP -d 6 7 8 9 10
+
+elif [ "$(xrandr | grep "DisplayPort-1 connected")" ]
+then 
+    xrandr --output DisplayPort-1 --mode 1920x1080 --output eDP --mode 1920x1200 --right-of DisplayPort-1
+    bspc monitor DisplayPort-1 -d 1 2 3 4 5
+    bspc monitor eDP -d 6 7 8 9 10
+elif [ "$(xrandr | grep "DisplayPort-2 connected")" ]
+then 
+    xrandr --output DisplayPort-2 --mode 1920x1080 --output eDP --mode 1920x1200 --right-of DisplayPort-2
+    bspc monitor DisplayPort-2 -d 1 2 3 4 5
+    bspc monitor eDP -d 6 7 8 9 10
+else
+    bspc monitor eDP -d 1 2 3 4 5 6 7 8 9 10
+fi 

@@ -1,0 +1,56 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../Main/Learning/BookClub/CakeCuttingNotes/Notes.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Main/Learning/BookClub/CakeCuttingNotes/Notes.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 27,
+                "EditorGroup": 0,
+                "FileName": "../../Main/Projects/Duckie/Duckie.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 61
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Main/Projects/Duckie/Chapters/chEight.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 42
+            },
+            {
+                "Col": 188,
+                "EditorGroup": 0,
+                "FileName": "../../Main/Projects/Duckie/Chapters/chNine.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 19
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Main/Projects/Duckie/Chapters/chOne.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 74,
+                "EditorGroup": 0,
+                "FileName": "../../Main/Learning/BookClub/CakeCuttingNotes/Notes.tex",
+                "FirstLine": 490,
+                "FoldedLines": "",
+                "Line": 525
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}
